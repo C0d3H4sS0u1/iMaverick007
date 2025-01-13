@@ -4,9 +4,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iMaverick007&label=Profile%20views&color=0e75b6&style=flat" alt="iMaverick007" /> </p>
 
 - 🌱 I’m currently learning the MERN stack (MongoDB, Express.js, React, and Node.js).
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=iMaverick007&theme=radical&hide_border=true" alt="iMaverick007" /></td>
-  </tr>
-</table>
