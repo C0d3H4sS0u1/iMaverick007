@@ -3,4 +3,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iMaverick007&label=Profile%20views&color=0e75b6&style=flat" alt="iMaverick007" /> </p>
 
-- 🌱 I’m currently learning the MERN stack (MongoDB, Express.js, React, and Node.js).
+- 🌱 I’m currently learning the MERN stack (MongoDB, Express.js, React.js, and Node.js).
