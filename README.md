@@ -34,17 +34,3 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" class="icon" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" class="icon" />
 </p>
-
-<style>
-  .icon-container {
-    display: flex;
-    gap: 15px;
-    justify-content: center;
-  }
-  .icon {
-    transition: transform 0.3s ease-in-out;
-  }
-  .icon:hover {
-    transform: scale(1.3) rotate(10deg);
-  }
-</style>
