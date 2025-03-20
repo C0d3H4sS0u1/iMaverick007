@@ -10,10 +10,9 @@
   🌱 I’m currently learning the <strong>MERN Stack</strong> (MongoDB, Express.js, React.js, and Node.js) to develop powerful and scalable web applications.
 </p>
 
-<!-- Icons with subtle hover animations -->
 <p align="center" style="display: flex; gap: 15px; justify-content: center;">
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
-  <img src="https://www.svgrepo.com/show/373594/express-js.svg" alt="Express.js" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
   <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React.js" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)';" onmouseout="this.style.transform='scale(1)';" />
 </p>
