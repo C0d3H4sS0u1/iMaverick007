@@ -34,27 +34,3 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="animation: spin 4s linear infinite; animation-delay: 0.6s;" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" style="animation: spin 4s linear infinite; animation-delay: 0.8s;" />
 </p>
-
-<!-- Inline CSS styles for animations -->
-<p align="center" style="display: none;">
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    transform: translateY(0);
-  }
-  40% {
-    transform: translateY(-30px);
-  }
-  60% {
-    transform: translateY(-15px);
-  }
-}
-
-@keyframes spin {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
-</p>
