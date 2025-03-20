@@ -11,11 +11,11 @@
 </p>
 
 <!-- Icons with CSS animations -->
-<p align="center" class="icon-container">
-  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" class="icon" width="50" height="50" style="animation: bounce 2s infinite;" />
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" class="icon" width="50" height="50" style="animation: bounce 2s infinite; animation-delay: 0.2s;" />
-  <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React.js" class="icon" width="50" height="50" style="animation: bounce 2s infinite; animation-delay: 0.4s;" />
-  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" class="icon" width="50" height="50" style="animation: bounce 2s infinite; animation-delay: 0.6s;" />
+<p align="center">
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="50" height="50" style="animation: bounce 2s infinite;" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="50" height="50" style="animation: bounce 2s infinite; animation-delay: 0.2s;" />
+  <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React.js" width="50" height="50" style="animation: bounce 2s infinite; animation-delay: 0.4s;" />
+  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" width="50" height="50" style="animation: bounce 2s infinite; animation-delay: 0.6s;" />
 </p>
 
 <h4 align="center">💡 A little more about me:</h4>
@@ -27,15 +27,16 @@
 </ul>
 
 <h4 align="center">🔧 Tech Stack & Tools I'm exploring:</h4>
-<p align="center" class="icon-container">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" class="icon" style="animation: spin 4s linear infinite;" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" class="icon" style="animation: spin 4s linear infinite; animation-delay: 0.2s;" />
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" class="icon" style="animation: spin 4s linear infinite; animation-delay: 0.4s;" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" class="icon" style="animation: spin 4s linear infinite; animation-delay: 0.6s;" />
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" class="icon" style="animation: spin 4s linear infinite; animation-delay: 0.8s;" />
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="animation: spin 4s linear infinite;" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="animation: spin 4s linear infinite; animation-delay: 0.2s;" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" style="animation: spin 4s linear infinite; animation-delay: 0.4s;" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="animation: spin 4s linear infinite; animation-delay: 0.6s;" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" style="animation: spin 4s linear infinite; animation-delay: 0.8s;" />
 </p>
 
-<style>
+<!-- Inline CSS styles for animations -->
+<p align="center" style="display: none;">
 @keyframes bounce {
   0%, 20%, 50%, 80%, 100% {
     transform: translateY(0);
@@ -56,4 +57,4 @@
     transform: rotate(360deg);
   }
 }
-</style>
+</p>
