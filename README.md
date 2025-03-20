@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30" /> 
+  Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30" height="30" /> 
   I'm Maverick
 </h1>
 <h3 align="center">
@@ -7,12 +7,29 @@
 </h3>
 
 <p align="center">
-  🌱 I’m currently learning the <strong>MERN Stack</strong> (MongoDB, Express.js, React.js, and Node.js).
+  🌱 I’m currently learning the <strong>MERN Stack</strong> (MongoDB, Express.js, React.js, and Node.js) to develop powerful and scalable web applications.
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="50" height="50" />
+  <img src="https://www.svgrepo.com/show/353437/express.svg" alt="Express.js" width="50" height="50" />
+  <img src="https://www.svgrepo.com/show/354259/react.svg" alt="React.js" width="50" height="50" />
+  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
+</p>
+
+<h4 align="center">💡 A little more about me:</h4>
+<ul align="center">
+  <li>👨‍💻 I’m working on building <strong>user-friendly and visually appealing applications</strong> with a focus on responsive design.</li>
+  <li>🔍 Exploring APIs to create real-time features and enhance app functionality.</li>
+  <li>🚀 Interested in full-stack development and deployment on platforms like <strong>Render</strong> and <strong>Vercel</strong>.</li>
+  <li>🎯 Passionate about <strong>UI/UX design</strong> to elevate user experience.</li>
+</ul>
+
+<h4 align="center">🔧 Tech Stack & Tools I'm exploring:</h4>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
 </p>
