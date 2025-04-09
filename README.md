@@ -1,7 +1,3 @@
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30" height="30" /> 
-  I'm Maverick
-</h1>
 <h3 align="center">
   A passionate developer from India with a love for creating and building innovative solutions.
 </h3>
